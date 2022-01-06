@@ -20,6 +20,7 @@ A really small CSS framework
 - 🎲&nbsp; Comes with a handful of [components](https://jenil.github.io/chota/#components) &amp; [utilities](https://jenil.github.io/chota/#utilities)
 - ✅&nbsp; Good Semantics
 - 🤡&nbsp; Supports icons from [Icongram](https://icongr.am/)
+- 👾&nbsp; PPLSWG
 
 <br>
 
